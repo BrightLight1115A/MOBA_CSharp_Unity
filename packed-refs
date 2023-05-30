@@ -1,0 +1,9 @@
+# pack-refs with: peeled fully-peeled sorted 
+d8d501fe11356dd8351d3da39960352aca1c9a9d refs/heads/dependabot/nuget/MOBA_CSharp_Server/MOBA_CSharp_Server/MessagePack-1.9.3
+bb50e6466bac5f25cac3c5b926dabe62ca3265c9 refs/heads/dependabot/nuget/MOBA_CSharp_Server/MOBA_CSharp_Server/Newtonsoft.Json-13.0.2
+f29f2f3da1f1f843292fa167785dbd446fbf8d52 refs/heads/master
+d8d501fe11356dd8351d3da39960352aca1c9a9d refs/pull/2/head
+ce0e6d162cb2d223a66bc75de915b27b0441cc98 refs/pull/2/merge
+9ae9550ad0c6561624fc466ff3850e2687062a59 refs/pull/5/head
+bb50e6466bac5f25cac3c5b926dabe62ca3265c9 refs/pull/6/head
+0301f3d854938616788abe2e726766b9a3d8d26d refs/pull/6/merge
